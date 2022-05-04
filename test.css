@@ -1,14 +1,32 @@
 @charset "UTF-8";
-@import url(https://leeprky.github.io/themes/MaterialYouTheme/Version/powercord-version.css);
 @import url("https://obscure-git.github.io/Settings-Iconsax/theme.css");
 @import "https://leeprky.github.io/snippits/coolsniipitsforthemes.css";
 @import url("https://stickfab.github.io/pc-fluenticons/FluentIcons.css");
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
 @import url("https://crearts-community.github.io/Friends-Grid/theme.css");
 @import url("https://crearts-community.github.io/Context-Icons/theme.css");
-@import url(https://leeprky.github.io/themes/MaterialYouTheme/u-imports.css);
 
+:root {
+  --outdated_materialyou-094:none !important;
+  --version:"0.9.5.PC" !important;
+  --build:"0945" !important;
+  
+}
 
+#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before {
+
+}
+
+:root {
+
+}
+
+.info-3pQQBb::after {
+ 
+}
+.info-3pQQBb::before {
+
+}
 
 .socialLinks-3ywLUf::after {
   content: "Style: " var(--style-name) " | Creator: " var(--style-creator) !important;
