@@ -7,21 +7,7 @@
 @import url("https://crearts-community.github.io/Friends-Grid/theme.css");
 @import url("https://crearts-community.github.io/Context-Icons/theme.css");
 @import url(https://leeprky.github.io/themes/MaterialYouTheme/u-imports.css);
-:root {
-  --outdated_materialyou-094:none !important;
-  --version:"0.9.5.PC" !important;
-  --build:"0945" !important;
-  --version-display:flex;
-}
 
-
-
-:root {
-  --version:"UNKOWN";
-  --build:"UNKNOWN";
-  --style-name:"UNKNOWN";
-  --style-creator:"UNKOWN";
-}
 
 .info-3pQQBb::after {
   content: "Latest " var(--version-latest-long) !important;
