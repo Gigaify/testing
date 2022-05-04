@@ -9,8 +9,8 @@
 @import url(https://leeprky.github.io/themes/MaterialYouTheme/u-imports.css);
 :root {
   --outdated_materialyou-094:none !important;
-  --version:"0.9.5.PC" !important;
-  --build:"0945" !important;
+  --version:"" !important;
+  --build:"" !important;
   --version-display:flex;
 }
 
